@@ -1,0 +1,41 @@
+.main{
+	margin: 0 auto;
+}
+.w {
+	width:900px;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+	color:red;
+}
+.logo{
+	margin: 0 auto;
+}
+.login{
+	border:solid 1px blue;
+}
+.login table{
+	margin: 0 auto;
+}
+.foot{
+	margin-top:100px;
+}
+.reg table{
+	margin: 0 auto;
+}
+.reg{
+	margin:0 auto;
+	border:solid 1px blue;
+}
+
+.reg_image{
+	width:600px;
+	margin:0 auto;
+}
+.reg_sub{
+	margin-left:300px;
+}
+

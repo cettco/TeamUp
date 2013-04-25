@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TeamUp"
+  id="myeclipse.1362826621890"
+  context-root="/TeamUp"
+  j2ee-spec="6.0"
+  archive="TeamUp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

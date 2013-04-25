@@ -1,0 +1,75 @@
+.main{
+	margin:0 auto;
+	width: 900px;
+	border:1px solid blue;
+	background-color: red;
+}
+.leftcol{
+	border-left:1px solid green;
+	float: left;
+}
+.leftcol table{
+	margin-top: 20px;
+	text-align: center;
+}
+.leftcol table td{
+	line-height: 50px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+.person{
+	width: 80px;
+}
+.head_img{
+	width: 80px;
+}
+.content{
+	float: right;
+	border:2px solid green;
+}
+.search{
+	float: left;
+	margin-top: 15px;
+}
+.bar{
+	float: right;
+	margin-top: 0px;
+}
+.nav li{
+	list-style: none;
+	float: right;
+	margin-left: 50px;
+	vertical-align: top;
+}
+.detail{
+	margin-top: 80px;
+	border:2px solid green;
+}
+.detail td{
+	padding-left:60px;
+	padding-top:15px;
+}
+.simple_detail{
+	width:400px;
+	height:100px;
+	overflow:hidden;
+	border-bottom:1px solid orange;
+}
+.join button{
+	list-style:none;
+	margin-left:40px;
+}
+.join{
+	margin-left:270px;
+}
+.edit{
+	margin-left:250px;
+}
+.edit_name{
+	margin-left:300px;
+}
